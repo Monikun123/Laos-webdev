@@ -55,8 +55,13 @@ let semester = 1;
                         {title: "Konsep Database", ppt: "https://docs.google.com/presentation/d/e/2PACX-1vQjw4wzlLirya_AHUPWLbGPTxAdhIYQNV-vsUPYlhclzdVF5X7uiqCEVPq5W7Dis-GNQA-gzRKOq9t0/embed?start=false&loop=false&delayms=30000"},
                         {title: "Menyimpan data dalam struktur tabel", ppt: "https://docs.google.com/presentation/d/e/2PACX-1vQCDHX6l2t9CxNMJO9KNzCuzPbOLOzkr2QJ57nCbYUnNoJYUomvKYSfqjf-nTA0bg/embed?start=false&loop=false&delayms=60000"},
                         {title: "Entity", ppt: "https://docs.google.com/presentation/d/e/2PACX-1vR4BnCfaULlcG6AFrrcHSjvQlVxeNr8-EgPqxl630oHy5sfKL8zCaRf9JnLAPF_RQ/embed?start=false&loop=false&delayms=3000"},
+<<<<<<< HEAD
                         {title: "ERD 2", ppt: "zdnkjkzbv"},
                         {title: "Normalisasi", ppt: ""},
+=======
+                        {title: "ERD 2", ppt: "https://docs.google.com/presentation/d/1G-dB3KKOclbVZhcMV64qp79ONPPIussw/edit?usp=sharing&ouid=102615620824048532872&rtpof=true&sd=true"},
+                        {title: "Normalisasi", ppt: "giasf"},
+>>>>>>> 0f4a5140bb87a9bd5aac32b2a8c594d6415ef5d5
                         {title: "DDL", ppt: ""},
                         {title: "Serba Serbi Database", ppt: ""},
                         {title: "Serba Serbi Database 2", ppt: ""},
